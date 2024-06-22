@@ -16,4 +16,10 @@ The Arise-Dopsis Challenge aims to develop advanced machine learning models for 
 
 Each section has its own README file with detailed information on the notebooks and processes involved.
 
+## Reflection
+Starting this project was challenging, especially since I began with classification instead of detection. However, through the detection task, I learned a lot about active learning, which I found fascinating. Once I grasped the concepts, the workflow became smooth.
+
+For the classification task, I was unable to accurately predict the family trees. With more time, I would have pursued this further. After discussing with Simona, we agreed to skip this part. I was eager to learn more as it was the first model requiring predictions across different "layers."
+
+
 Feel free to explore the repository and the detailed documentation within each section to understand the methods and results of the Arise-Dopsis Challenge.
